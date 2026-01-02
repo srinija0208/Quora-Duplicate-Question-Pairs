@@ -98,6 +98,8 @@ Sentence embeddings help capture **semantic similarity**, which significantly im
 
 * Fine-tune transformer models (BERT, RoBERTa)
 * Use cosine similarity directly on embeddings
+* Try dimensionality reduction (PCA/SVD) for embeddings.
+* Hyperparameter tuning with XGBoost/LightGBM.
 * Handle class imbalance with advanced sampling
 
 ---
